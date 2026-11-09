@@ -1,0 +1,95 @@
+KOVAN SAĞLIĞI VE ARILIK TAKİBİ — ARILIK DEFTERİ
+Skill sürümü: 1.0.0
+Defter sürümü:
+Son güncelleme / saat dilimi:
+Kayıt kapsamı: Bu dosyada gerçekten bulunan kontroller
+Geçmiş durumu: Tam / kısmi / önceki deftere erişilemedi
+
+ARILIK
+Arılık kimliği ve adı:
+Konum (arıcı beyanı):
+Konum / taşınma geçmişi:
+Yaklaşık rakım ve dayanağı:
+Toplam kovan sayısı (beyan):
+Bilinen kovan numaraları:
+Kovan tipi / ortak düzen:
+Arıcının işaretleri ve anlamları:
+
+BUGÜNKÜ DURUM
+Kontrol tarihi:
+Bugün incelenen farklı kovanlar:
+Sınırlı / eksik inceleme olanlar:
+Bugün incelenmeyen bilinen kovanlar:
+Kimlikleri bilinmeyen kalan kovan sayısı:
+Öncelikli işler:
+
+HAVA VE YEREL KOŞULLAR
+Meteorolojik kaynak, yer ve güncelleme saati:
+Veri gözlem mi, tahmin mi:
+Serviste görülen sıcaklık / rüzgâr / yağış:
+Arıcının kovan başındaki gözlemi:
+Fark ve değerlendirmeye etkisi:
+Yakın günlerin koşulları (gerekiyorsa):
+Nektar / polen gelişi gözlemi ve tarihi:
+
+KOVANLARIN GÜNCEL ÖZETİ
+[Her bilinen kovan için ayrı bölüm; numara uydurma]
+Kovan kimliği:
+Son kontrol tarihi / kapsamı:
+Ana ırkı / cinsi (arıcı beyanı):
+Ana çıkış yılı / kaçıncı sezonu:
+Ana, yumurta ve genç yavru hakkında dayanaklar:
+İki yüzü yoğun arılı çıta sayısı:
+Kısmen arılı çıtalar:
+Takılı toplam çıta / kat sayısı:
+Açık yavru görülen çıtalar / yaklaşık alan:
+Kapalı yavru görülen çıtalar / yaklaşık alan:
+Toplam yavrulu çıta (ayrıca biliniyorsa):
+Kemer balı / polen ve erişilebilir stok:
+Kovan önü:
+Yavru / arı sağlığı gözlemleri:
+Varroa son ölçümü ve sınırları:
+Çıta küfü / örtü bezi ıslaklığı:
+Alan / taban / yalıtım (ilgiliyse):
+Bugünkü kısa durum ve gerekçesi:
+Öneriler:
+Yapıldığı arıcı tarafından bildirilen işler:
+Kontrol edilmemiş / bilinmeyen noktalar:
+İşaret (varsa, arıcının düzenine göre):
+Takip tarihi veya koşulu ve yapılacak iş:
+
+TARİHLİ KONTROL VE OLAY GEÇMİŞİ
+[Önceki kayıtları koru. Her kontrol / değişim için aşağıdaki alanları kullan]
+Kontrol / olay kimliği:
+Arılık ve kovan:
+Tarih / saat:
+Önceki kayıtla ilişki:
+Arıcının beyanı:
+Fotoğraf / video gözlemi ve ait olduğu tarih:
+Ölçüm: yöntem, ham sayı, süre / örnek büyüklüğü:
+Hesaplanan sonuç ve birimi (geçerliyse):
+Sayım / görüntü sınırları:
+Değerlendirme, olası başka nedenler:
+Dayanak / belirsizlik:
+Önerilen işler:
+Yapıldığı bildirilen işler:
+Takip işi / zamanı:
+“Bu kovanla işimiz bitti mi?” cevabı:
+Kayıt durumu: tamamlandı / ara not / eksik inceleme
+Kaynak kayıtları:
+Düzeltme varsa eski kayıtla bağı:
+
+BİRLEŞTİRME VE EKSİKLER
+Okunan dosya / erişilebilen sohbet ve tarihi:
+Birleştirilen kayıtlar / ayıklanan kopyalar:
+Çözülen ve çözülemeyen çelişkiler:
+Ulaşılamayan geçmiş:
+
+KAYNAK DİZİNİ
+[Karara bağlı kurum/başlık, doğrudan URL, görülen yayın/güncelleme tarihi,
+erişim tarihi ve tam metin/özet/erişilemedi durumu]
+
+NOT
+Boş alanları arıcıya doldurtma. Bilinmeyeni “bilinmiyor”, bakılmayanı
+“bakılmadı” diye yaz. Öneriyi yapılmış işlem sayma. Son kontrol özeti,
+önceki tarihli olayların yerini almaz.
