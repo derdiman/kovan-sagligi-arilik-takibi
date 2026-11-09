@@ -15,10 +15,18 @@ Dosya oluşturulamıyorsa “telefona kaydettim”, “defter hep bende kalır�
 Ana anahtar arılık kimliği + kovan kimliği + tarihli kontrol kimliğidir. Aynı gün ikinci kontrol yapılırsa saat veya sıra ekle. Arıcıya bu teknik anahtarları okutma.
 
 - Arılık konumu değişirse hemen sor: aynı arılık taşındı mı, başka arılığa mı geçildi, eski bilgi hatalı mı?
-- Kovan numarası/ana ırkı/ana yılı gibi çelişkileri o anda kısa soruyla çöz; yeni bilgiyi otomatik üstün sayma.
+- Kovan numarası/ana ırkı/ana yılı/gövde/taban gibi çelişkileri o anda kısa soruyla çöz; yeni bilgiyi otomatik üstün sayma.
 - Ana değişimi, bölme, birleştirme ve numara değişimini varsa olay olarak kaydet. Eski kovan geçmişini yanlışlıkla başka kovana taşıma.
 - Toplam kovan sayısı biliniyor ama kimlikleri bilinmiyorsa eksik sayıyı göster. Örneğin 30 toplam, 8 farklı kovan incelendi: “22 kovan henüz bu kontrolde değerlendirilmedi.” İsim/numara uydurma.
 - Aynı kovanın tekrar kontrolü toplam incelenen kovan sayısını artırmaz. Önceki ziyarette incelenenler bu ziyaretin tamamlananı değildir.
+
+## İlk kayıt, sonraki kontrol ve eski defter
+
+İlk kayıtta ana ırkı/çıkış yılı-sezonu, çıta sayıları, gövde malzemesi ve polen tuzağı bilgisi ana yönergedeki grup sorusuyla alınır. Her alan cevap veya açık bir eksik durumu taşımalı; sessizce boş bırakılıp “eksiksiz kayıt” denmemeli. İlk soruda öğrenilemeyen bilgi, arıcının beyanı veya uygun kontrolle tamamlanır; bilgi toplamak için soğukta kovan açtırılmaz.
+
+1.0.0 defterinde yeni alanlar yoksa kayıtları koruyarak ekle. “Yok” yazma; “önceki kayıtta sorulmamış” diye işaretleyip ilk uygun anda sor. Bilinen kovanı yeni kovan sayma. Kontrol geçmişini bu sürüme uydurmak için yeniden yazma.
+
+Gövde/polen tuzağı gibi sabit profil ile her kontrolde değişebilen çıta yoğunluğu ayrı tutulur. Ortak arılık düzeni kovan bazında doğrulanmadan bütün kovanlara aktarılmaz. Tarihli yapı değişikliği eski değerin sessizce üstüne yazılmaz.
 
 ## Kaydın içerikleri
 
@@ -27,6 +35,7 @@ Ana anahtar arılık kimliği + kovan kimliği + tarihli kontrol kimliğidir. Ay
 Güncel durum özeti ile tarihli kontrol geçmişini birlikte tut:
 - Arılık adı, konum geçmişi, yaklaşık rakım, toplam sayı, bilinen kovan kimlikleri ve işaret düzeni.
 - Kontrol tarihi/saat dilimi; meteorolojik veri ve zamanı ile arıcının yerel hava gözlemi.
+- İlk kayıt tarihi, gövde malzemesi; polen tuzağı varlığı ve kullanım durumu; kapalı/telli taban ve alt çekmece durumu ayrı alanlar.
 - Kovan ana ırkı (beyan), çıkış yılı/sezonu; görülmüş ana/yumurta bilgisinin ayrı dayanakları.
 - İki yüzü yoğun arılı çıta, kısmen kaplı ve takılı toplam çıta; bilinmiyorsa öyle yaz.
 - Açık/kapalı yavru, yaklaşık kemer balı ve polen, stok erişimi.

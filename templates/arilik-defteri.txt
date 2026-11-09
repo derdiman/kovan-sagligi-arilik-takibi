@@ -1,5 +1,5 @@
 KOVAN SAĞLIĞI VE ARILIK TAKİBİ — ARILIK DEFTERİ
-Skill sürümü: 1.0.0
+Skill sürümü: 1.1.0
 Defter sürümü:
 Son güncelleme / saat dilimi:
 Kayıt kapsamı: Bu dosyada gerçekten bulunan kontroller
@@ -35,6 +35,13 @@ Nektar / polen gelişi gözlemi ve tarihi:
 KOVANLARIN GÜNCEL ÖZETİ
 [Her bilinen kovan için ayrı bölüm; numara uydurma]
 Kovan kimliği:
+İlk kayıt tarihi:
+İlk kayıt eksikleri / tamamlanma durumu:
+Gövde malzemesi (ahşap / kompozit / strafor / diğer / bilinmiyor):
+Polen tuzağı (var / yok / bilinmiyor):
+Polen tuzağı kullanım durumu (açık / kapalı / çıkarılmış / bilinmiyor / uygulanmaz):
+Taban yapısı (kapalı / telli / diğer / bilinmiyor):
+Alt çekmece (varlığı / konumu / bilinmiyor):
 Son kontrol tarihi / kapsamı:
 Ana ırkı / cinsi (arıcı beyanı):
 Ana çıkış yılı / kaçıncı sezonu:
@@ -64,6 +71,7 @@ Kontrol / olay kimliği:
 Arılık ve kovan:
 Tarih / saat:
 Önceki kayıtla ilişki:
+Ana / gövde / taban / numara değişikliği (varsa):
 Arıcının beyanı:
 Fotoğraf / video gözlemi ve ait olduğu tarih:
 Ölçüm: yöntem, ham sayı, süre / örnek büyüklüğü:

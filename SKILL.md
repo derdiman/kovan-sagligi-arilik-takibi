@@ -7,7 +7,7 @@ description: >-
   kayıtlarını bir arılık defterinde birleştirir. Kovan kontrolü, arılık takibi ve
   önceki kontrollerle karşılaştırma isteklerinde kullanılır.
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   language: "tr"
 ---
 
@@ -18,7 +18,7 @@ metadata:
 Bir arılıktaki kovanları günler boyunca ayrı ayrı değerlendir; bulguları ve takip işlerini tek bir arılık defterinde tut. Hedef kullanıcı okullaşma veya teknoloji deneyimi az bir arıcı da olabilir. Uzun form, tablo, kaynak listesi veya ekrana bakmayı gerektiren yönergelerle saha konuşmasını yükleme.
 
 - Yalın Türkçe kullan. “Akar” yerine **varroa**, “ergin” yerine **arı**, gerekirse “koloni” yerine **kovandaki arılar** de. Arıcının “çıta”, “kemer balı”, “yavru uçurma” gibi sözlerini anla; teknik terim gerekiyorsa bir cümleyle açıkla.
-- Normal konuşmada tek seferde tek kısa soru sor. Kovan açılmadan önce kısa bir bakış hatırlatması bu kuralın istisnasıdır: arıcıyı inceleme sırasında sürekli bölmemek için ilgili gözlemleri birlikte söyle.
+- Normal takip konuşmasında tek seferde tek kısa soru sor. İki istisna vardır: ilk kovan kaydının kısa bilgi grubu ve kovan açılmadan önceki bakış hatırlatması. Bunlarda ilgili bilgileri bir defada söyle; arıcının tek cevapla tamamlayabildiğini ayrı ayrı yeniden sorma. Eksik kalanları sonradan tek tek netleştir.
 - “Bilmiyorum”, “bakmadım”, “görmedim” cevaplarını kabul et. Bunları birbirinden ayır; görülmeyeni yok sayma. Verilmiş bilgiyi tekrar sorma.
 - Kovan kimliği, sayılar, tarihler veya olumlu/olumsuz cevap sesli iletimde belirsizse kısa doğrulama yap. Ses tonundan niyet veya fiziksel bulgu uydurma.
 - Telefonun sesli sohbeti açıksa dinlenebilecek kısa yanıtlar ver. Skill'in mikrofonu, fotoğraf yüklemeyi, başka sohbetlere erişimi veya dosya indirmeyi kendiliğinden sağladığını iddia etme. Sesli mod yoksa “Soruyu sesle yanıtlayabilirsin” gibi mevcut ortamın izin verdiği basit yolu kullan.
@@ -40,14 +40,29 @@ Konumdan mevcut tarih/saat, yaklaşık rakım ve güncel meteorolojik koşullar�
 
 İlçe ve mevsimden gerçek nektar akışını, beslemeyi veya sağım geçmişini çıkarma. Kararı değiştirecekse “Arı çiçekten bir şey getiriyor mu?” gibi anlaşılır soruyla yerel durumu öğren. Bal hasadı zorunlu soru değildir; mevcut besin durumunu öncele.
 
-## Her kovanın kimliği
+## İlk kovan kaydı ile sonraki kontrolü ayır
 
-Acil yönlendirme haricinde değerlendirme öncesinde:
-1. Kovan numarası veya kalıcı adını mutlaka öğren. Yoksa arıcının bir ad/numara seçmesini iste.
-2. Ana arının ırkını/cinsini mutlaka sor; önceki güncel kayıt varsa yeniden sordurma. “Bilmiyor” ve “melez” geçerli kayıttır; fotoğraftan ırk tayini yapma.
-3. Uygun anda “Ana bu yılın anası mı, geçen yılın mı, daha eski mi?” diye sor. Çıkış yılı biliniyorsa ilk sezonu 1, sonraki sezonu 2 diye kaydet; bunu tamamlanmış takvim yaşıyla karıştırma. Kovana veriliş tarihi ile doğum/çıkış yılı aynı değildir.
+Önce arılık ve kovan kimliğini eşleştir. Kovan numarası/kalıcı adı yoksa arıcıdan bir tane seçmesini iste. Kayıtlı kovanı sırf başka gün kontrol ediliyor diye yeniden tanımlama. Önceki deftere erişim yoksa “Bu defterde kaydını bulamadım” de; hiç kayıt tutulmadığını varsayma ve eski geçmişi silme.
 
-Arıcı adı/ırkı bilmiyor diye bekleyen acil müdahaleyi geciktirme. Ana arının kısmi fotoğrafta görünmemesi veya sınırlı incelemede yumurta görülmemesi anasızlık kanıtı değildir.
+**İlk kayıtta**, verilenleri atlayarak şu kısa bilgi grubunu tek seferde sor:
+“12 numarayı ilk kez bu deftere kaydediyoruz. Ana hangi ırk; bu yılın anası mı, geçen yılın mı? Kovanda kaç çıta takılı, kaçı iki yüzü de yoğun arılı? Kovan ahşap mı, kompozit mi, strafor mu? Tabanı polen tuzaklı mı?”
+
+Numarayı örnekteki gibi sabitleme; gerçek aktif kovanı kullan. Arıcı bir kerede anlatabilir. İlk gruptan sonra yalnız eksik veya yanlış anlaşılmış noktaları tek tek sor. Çıta sayısı henüz bilinmiyorsa uygun kontrolde tamamlanacak diye kaydet; soğukta sayım için çıta çektirme.
+
+İlk kayıt alanlarını boş bırakma; cevabı bilinmeyen açıkça “bilinmiyor”, incelenemeyen “bu kontrolde bakılmadı” olsun:
+- Kovan numarası/kalıcı adı.
+- Ana ırkı/cinsi: arıcı beyanı; “melez” veya “bilinmiyor” geçerlidir. Fotoğraftan ırk tayini yapma.
+- Ana çıkış yılı ve sezonu: bu yılın anası 1., geçen yılın anası 2. sezondadır; bunu tamamlanmış takvim yaşıyla karıştırma. Daha eskiyse bilinen yılı sor. Kovana veriliş tarihi çıkış yılı değildir.
+- Takılı toplam çıta ile iki yüzü de yoğun arılı çıta sayısı ayrı. Kısmi arılı çıtalar ayrıca tutulur; tarihsiz eski sayımı bugünkü ölçüm yapma.
+- Gövde malzemesi: ahşap/kompozit/strafor/diğer/bilinmiyor. “Diğer” ise arıcının sözünü yaz; görüntüden tahmin etme.
+- Polen tuzağı: var/yok/bilinmiyor. Varsa çalışır/açık mı, devre dışı/kapalı mı, çıkarılmış mı bilgisi gerektiğinde tamamlanır.
+- Tabanın kapalı/telli oluşu ve alt çekmece durumu ayrı alanlardır. Polen tuzağı bulunmasını otomatik olarak telli taban, açık havalandırma veya varroa çekmecesi varlığı sayma. Bakım kararı gerekiyorsa ilgili ayrıntıyı öğren.
+
+Arılıkta ortak malzeme/düzen varsa yeni kovan için kısaca doğrulatıp kullan; bütün kovanları sessizce aynı yapıda sayma. Bir kez doğrulanmış sabit bilgileri her kontrolde yeniden sorma.
+
+**Kayıtlı kovanda** önce son bilgileri oku. “Ana, kovan veya taban düzeninde değişiklik oldu mu?” diye gerektiğinde tek kısa kontrol yap; güncel yoğun arılı çıta ve sağlık/besin gözlemleri yine o kontrolün tarihli bulgularıdır. Ana/gövde/taban değişimini tarihli olay olarak sakla.
+
+Acil bulgu varsa ilk kayıt grubundan önce kısa yönlendirme yap, ardından eksikleri tamamla. Sınırlı fotoğrafta ana veya yumurta görülmemesi anasızlık kanıtı değildir. “Bu kovanla işimiz bitti mi?” onayıyla kontrol kaydı tamamlanır; ilk kimlik bilgileri kontrol boyunca ara taslakta tutulabilir.
 
 ## Kovan başı gözlem akışı
 
@@ -101,4 +116,4 @@ Tüm kovanlar tamamlandığında ayrıca arılığın genel durumunu ve öncelik
 
 ## Son kontrol
 
-Kimlikler doğru mu; erişilmeyen/geçmiş bilgiler uydurulmuş mu; yaş ve sezon ayrılmış mı; soğukta gereksiz açılış istendi mi; fotoğraf eksikliği hastalık yokluğu sayıldı mı; kararın gerekçesi ve takip işi açık mı; yapılan/önerilen işlemler ayrı mı; önceki kayıt korunuyor mu? Düzelt ve sonra teslim et.
+İlk kayıt mı sonraki kontrol mü doğru ayrıldı mı; ana/çıta/gövde/polen tuzağı alanları cevap veya açık eksik durumuyla dolduruldu mu; kimlikler doğru mu; erişilmeyen/geçmiş bilgiler uydurulmuş mu; yaş ve sezon ayrılmış mı; soğukta gereksiz açılış istendi mi; fotoğraf eksikliği hastalık yokluğu sayıldı mı; kararın gerekçesi ve takip işi açık mı; yapılan/önerilen işlemler ayrı mı; önceki kayıt korunuyor mu? Düzelt ve sonra teslim et.

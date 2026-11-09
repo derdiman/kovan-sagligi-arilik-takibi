@@ -1,6 +1,6 @@
 # Kovan Sağlığı ve Arılık Takibi
 
-**Türkçe skill · Sürüm 1.0.0**
+**Türkçe skill · Sürüm 1.1.0**
 
 Kovan başında arıcının gördüklerini anlamasına, bakım ve takip işlerini belirlemesine ve bütün arılığın tarihli kayıtlarını tutmasına yardımcı olur. Telefon kullanımı ve kısa sesli konuşma düşünülerek hazırlanmıştır.
 
@@ -8,7 +8,11 @@ Kovan başında arıcının gördüklerini anlamasına, bakım ve takip işlerin
 
 “Arılıktayım, kovanları kontrol edeceğiz.”
 
-Önce bulunduğun yer ve kovan bilgileri öğrenilir. Arıcıya kısa bir bakış planı söylenir; uygun havada kontrolünü yapıp gördüklerini anlatır. Fotoğraf çekemiyorsa kısa cevaplarla devam eder. Acil bir durum bildirirse önce gerekli yönlendirme gelir.
+Önce bulunduğun yer ve kovan kimliği öğrenilir. İlk kayıtta ana ırkı ve yılı, takılı ve yoğun arılı çıta sayıları, ahşap/kompozit/strafor gibi gövde malzemesi ve polen tuzağı bilgisi birlikte sorulur. Sonraki kontrollerde kayıtlı bilgiler kullanılır, değişiklikler ve bugünkü bulgular eklenir. Arıcıya kısa bir bakış planı söylenir; uygun havada kontrolünü yapıp gördüklerini anlatır. Fotoğraf çekemiyorsa kısa cevaplarla devam eder. Acil bir durum bildirirse önce gerekli yönlendirme gelir.
+
+## 1.1.0 güncellemesi
+
+İlk kovan kaydı ile sonraki kontrol ayrıldı. Ana ve çıta bilgilerine gövde malzemesi, polen tuzağı, taban ve çekmece alanları eklendi. İlk kayıt grubu bir defada sorulur; arıcının zaten verdiği bilgiler tekrarlanmaz. Eski defterlerde geçmiş korunur, yeni alanlar “önceki kayıtta sorulmamış” olarak açılır.
 
 ## Neye bakar?
 

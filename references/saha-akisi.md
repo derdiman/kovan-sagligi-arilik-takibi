@@ -2,7 +2,9 @@
 
 ## Kısa başlangıç
 
-Arılık ve kovan kimliğini, ana ırkını bil; acil durumda bunları sonra tamamla. Önceki kayıttan bilinen konum, kovan tipi ve toplam sayıyı her kovanda tekrar sorma. Tecrübe düzeyi, su, rüzgâr veya yapılan iş gibi ayrıntıları karar değişiyorsa öğren. Başlangıçta uzun soru listesi verme.
+Arılık ve kovan kimliğini eşleştirip ilk kayıt ile sonraki kontrolü ayır. İlk kayıtta SKILL.md içindeki kısa bilgi grubunu tek seferde sor: ana ırkı ve yılı/sezonu, takılı toplam ve iki yüzü yoğun arılı çıta sayısı, gövde malzemesi ve polen tuzağı. Arıcının cevapladıklarını tekrar sorma; yalnız eksikleri tek tek tamamla. Acil durumda önce yönlendir.
+
+Kayıtlı kovanda konum, malzeme ve ana bilgilerini baştan sormak yerine mevcut kaydı kullan; değişiklikleri tarihli sakla. İlk kayıt grup sorusu dışında uzun bir başlangıç formu verme. Polen tuzağı, telli taban ve çekmece ayrı özelliklerdir; birbirinden çıkarma. Arıcı henüz yoğun arılı çıta sayısını bilmiyorsa uygun kontrolde bunu tamamlayacak kısa hatırlatma yap. Tecrübe, su, rüzgâr veya yapılan iş gibi ayrıntıları kararı değiştiriyorsa öğren.
 
 Hava/arı durumu iç kontrol için uygun değilse dışarıdan kısa gözlemle yetin; arıcının önceki iç gözlemini tarihiyle kaydet. Şüpheli ciddi açlık için kısa acil kontrol ile rutin bütün çıtaları çekmeyi birbirinden ayır. Kararı mevsim-ve-bakim.md ile ver.
 
