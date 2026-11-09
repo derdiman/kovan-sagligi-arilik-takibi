@@ -10,7 +10,7 @@ Ciddi açlık şüphesinde gereksiz tam inceleme yerine salkımı dağıtmadan k
 
 ## Besin: arılı çıta ve kemer balı
 
-Kontrolden önce arıcıya, hava uygunsa arılı çıtalardaki kemer balını göz kararı değerlendirmesini söyle. Yavrunun üzerinde balın bulunması, yaklaşık alanı ve birden fazla çıtadaki dağılımı kaydedilir. Sadece dış çıtalardaki stokla yeterlilik sonucu verme.
+Kontrolden önce arıcıya, hava uygunsa arılı çıtalardaki kemer balını göz kararı değerlendirmesini söyle. Yavrunun üzerinde balın bulunması, yaklaşık alanı ve birden fazla çıtadaki dağılımı kaydedilir. Sadece dış çıtalardaki stokla yeterlilik sonucu verme. Kemer balının azlığı da tek başına bütün kovanda açlık kanıtı değildir: arının ulaşabildiği üst/yan stok ve mevcut yemliği birlikte değerlendir. “Bugün erişebilir” ile “bir sonraki güvenli kontrole kadar yeterli” ayrı değerlendirmelerdir; tüketim ve gözlem eksikken kaç gün yeteceğini uydurma.
 
 “İki çıtada geniş kemer, üçünde az” gibi beyanı aynen yaklaşık kayıt olarak tut. Arıcı uygun kontrolde çıtanın eline hafif/ağır geldiğini söyleyebilir; balmumu, yavru ve malzeme de ağırlığı etkiler. Tartım olmadan kilogram üretme. Tam sayıyı öğrenmek için bütün çıtaları çektirmek gerekmez.
 
@@ -24,7 +24,7 @@ Besin yetersizliği veya erişim sorunu varsa koşullara uygun destek önerisi g
 
 Miktar ve yerleşim için koloni büyüklüğü, stok, hava, ürün içeriği ve uygun kaynak gerekir. Gözlenen bal alanından birebir eşdeğer yem miktarı türetme. Kaynağı bilinmeyen balı veya şüpheli kovandan bal/peteği besleme amacıyla taşıtma.
 
-Ticari ürün veya şurup uygulaması tartışılacaksa ürünün gerçek içeriği, yerel rehber, kullanılabilirlik ve bal üretimi koşulları doğrulanır. Tıbbi ürün/ilaç/doz bu skill'in normal kapsamı değildir. Önerilen yemin verilip verilmediği ve yeniden kontrol ayrı kaydedilir [S1, S7].
+Besleme önerilecekse önce “Kovanda sağım için ayırdığın bal veya ballık var mı?” sorusunu, cevap zaten biliniyorsa tekrarlamadan netleştir. Rutin sağım geçmişi sorgusu gerekmez; ancak yem ile hasatlık balın karışması önlenmeden besleme planı verme. Ciddi açlıkta yardım ertelenmez; arının enerji ihtiyacını giderirken hasatlık ürünün ayrılması için uygun yerel destek aldır. Ticari ürün veya şurup için içerik, tazelik, arıya uygunluk, hava ve yemliğe erişim doğrulanır. Açıkta ortak yemleme, döküntü ve sızıntı yağmacılığı/bulaşmayı artırabilir; uygun kovan içi yemlik ve döküntüsüz uygulamayı değerlendir [S13]. Tıbbi ürün/ilaç/doz bu skill'in normal kapsamı değildir. Önerilen yemin verilip verilmediği ve yeniden kontrol ayrı kaydedilir [S1, S7].
 
 ## Alan daraltma ve yalıtım
 
@@ -37,11 +37,11 @@ Arıcının istediği sağlı sollu yan bölmelerin yalıtımını ve üst ört�
 ## Nem: cihaz istemeden gözlem
 
 İlk soru aynen: **“Çıtalarda küf veya örtü bezinde ıslaklık var mı?”**
-Yoksa bu başlığı uzatma. Islak kapak/damlama arıcı tarafından kendiliğinden bildirilirse dikkate al. Nem ölçer isteme, alım önerme; fotoğraftan nem yüzdesi çıkarma.
+Bakılıp yok denmişse bu başlığı uzatma; bakılmadıysa “yok” yazma. Örtü bezi kullanılmıyorsa “uygulanmaz” kaydet, mevcut örtü/kapak yüzeyini ilgili belirti varsa sor. Islak kapak/damlama arıcı tarafından kendiliğinden bildirilirse dikkate al. Nem ölçer isteme, alım önerme; fotoğraftan nem yüzdesi çıkarma.
 
 Varsa suyun nerede olduğu, yağmur/kapak sızıntısı ihtimali, örtünün durumu ve taban/giriş açıklıkları hakkında kısa takip soruları sor. Küflü petek, hastalıklı yavru kalıntısı ve sadece ıslak örtüyü aynı bulgu sayma.
 
-**Koli kartonu:** Arıcının önerdiği bu gözlem yardımını bütün kovanlara rutin ekleme. Yalnız küf/ıslaklık dalında, kovanın yapısına uygunluğu ve dayanağı doğrulanmışsa temiz, kuru, kimyasal kaplama/keskin koku taşımayan malzemeyle koşullu ele al. Islanma tek başına “aşırı nem” tanısı veya nem ölçümü değildir; sızıntı/yoğuşma olasılıklarını ayır. Islak malzemenin arı üstüne damlatması, hava yolunu tıkaması veya kovanı soğutması engellenmelidir. Doğrudan koli kartonunu bütün çıtalara serme uygulamasına yeterli kaynak bulunamadıysa bunu doğrulanmış teknik gibi önerme. Kağıt/emici örtüyle ilgili kaynağı otomatik olarak her tür koli kartonuna genelleme.
+**Koli kartonu:** Bir nem testi veya rutin çözüm olarak önerme. Küf/ıslaklık varsa önce mevcut örtü, damlama, sızıntı ve hava yollarını değerlendir. Arıcı karton kullandığını söylerse durumunu kaydet; ıslak kartondan nem yüzdesi veya tek neden çıkarma. Belirli malzeme/yerleşim için uygunluk ve kaynak doğrulanmadan çıtaların üstüne karton serdirme. Kağıt/emici örtü kaynakları bütün koli kartonlarına genellenmez.
 
 ## Taban ve havalandırma
 
@@ -54,3 +54,10 @@ Bütün telli tabanlar için “kışın hep açık” veya “hep kapalı” ku
 ## Yaklaşan büyüme
 
 Açık/kapalı yavru, yoğun arılı çıtalar ve boş kullanılabilir alanı mevsimle birlikte değerlendir. Kapalı yavru çoksa yakında çıkacak arıların alan ihtiyacını gözden kaçırma. Soğukta önerilen daraltmayı gelişme dönemine körlemesine sürdürme; nektar gelişi ve ana memeleri varsa saglik-ve-gelisme.md yolunu kullan.
+
+
+## Sıcak hava, su ve polen tuzağı
+
+Sıcak/kurak hava, ön tarafta yoğun toplanma veya susuzluk olasılığı varsa erişilebilir temiz suyu, gölgeyi ve hava yollarını kontrol et. Arılığın ortak su durumunu her kovanda yeniden sorma; yer/koşul değiştiğinde güncelle. Su kabında boğulmayı önleyen tutunma yüzeyi ve temizlik önemlidir. Ön tarafta toplanma tek başına oğul hazırlığı ya da hastalık değildir. Kovanı soğutmak için arıların/yavrunun üzerine rastgele su döktürme veya hava girişini kapattırma [S11, S12].
+
+Polen azlığı/yavru gelişimi değerlendirilirken tuzağın fiilen polen toplayıp toplamadığını öğren; polen gelişi, içerideki stok ve yavru ihtiyacını birlikte değerlendir. Polen tuzağı varlığı polen yeterliliği kanıtı değildir. Yetersizlik şüphesinde toplamayı sürdürme kararını gözden geçir; bütün sezonlara sabit açma/kapama süresi yazma.

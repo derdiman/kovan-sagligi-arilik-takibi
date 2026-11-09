@@ -1,6 +1,6 @@
 # Kovan Sağlığı ve Arılık Takibi
 
-**Türkçe skill · Sürüm 1.1.0**
+**Türkçe skill · Sürüm 1.3.0**
 
 Kovan başında arıcının gördüklerini anlamasına, bakım ve takip işlerini belirlemesine ve bütün arılığın tarihli kayıtlarını tutmasına yardımcı olur. Telefon kullanımı ve kısa sesli konuşma düşünülerek hazırlanmıştır.
 
@@ -10,9 +10,9 @@ Kovan başında arıcının gördüklerini anlamasına, bakım ve takip işlerin
 
 Önce bulunduğun yer ve kovan kimliği öğrenilir. İlk kayıtta ana ırkı ve yılı, takılı ve yoğun arılı çıta sayıları, ahşap/kompozit/strafor gibi gövde malzemesi ve polen tuzağı bilgisi birlikte sorulur. Sonraki kontrollerde kayıtlı bilgiler kullanılır, değişiklikler ve bugünkü bulgular eklenir. Arıcıya kısa bir bakış planı söylenir; uygun havada kontrolünü yapıp gördüklerini anlatır. Fotoğraf çekemiyorsa kısa cevaplarla devam eder. Acil bir durum bildirirse önce gerekli yönlendirme gelir.
 
-## 1.1.0 güncellemesi
+## 1.3.0 güncellemesi
 
-İlk kovan kaydı ile sonraki kontrol ayrıldı. Ana ve çıta bilgilerine gövde malzemesi, polen tuzağı, taban ve çekmece alanları eklendi. İlk kayıt grubu bir defada sorulur; arıcının zaten verdiği bilgiler tekrarlanmaz. Eski defterlerde geçmiş korunur, yeni alanlar “önceki kayıtta sorulmamış” olarak açılır.
+Oğul ve bölmede arıcının kabul edeceği yeni numara önerisi, kaynak koloni bağlantısı ve ana kökeni eklendi. İkinci ve sonraki karşılaştırılabilir kontrollerde gelişim, sayı/yüzde/geçen süre ve bakım olaylarıyla birlikte gösterilir. Damızlık ön adaylığı yalnız büyüme sıralamasına dayanmaz; sağlık, davranış, tekrarlanan performans ve üretim amacıyla birlikte değerlendirilir. F1/melez beyanı saf ırk uygunluğundan ayrı tutulur; kesin genetik üstünlük veya sertifikalı damızlık iddiası verilmez. Önceki kayıt, saha ve güvenlik kuralları korunur.
 
 ## Neye bakar?
 
@@ -20,7 +20,7 @@ Arılı çıtalar, açık/kapalı yavru, kemer balı ve polen, kovan önü, varr
 
 Değerlendirme sade dille verilir. “Bu kovanla işimiz bitti mi?” sorusuna evet denince kayıt tamamlanır ve sonraki kovana geçilir.
 
-Günlük kontroller bitince güncel arılık defteri .txt olarak sunulur; WhatsApp'ta kendine gönderme önerilir. Bütün kovanlar incelendiğinde istenirse Excel envanteri de hazırlanabilir.
+Günlük kontroller bitince bakılan ve henüz bakılmayan kovanlar ayrı gösterilir. Ortam dosya oluşturabiliyorsa güncel arılık defteri .txt olarak sunulur; WhatsApp’ta kendine saklama yolu gösterilir. Dosya üretilemiyorsa aynı sohbette kısa kayıt özeti verilir. Bütün aktif koloniler birden çok güne yayılan kontrol turunda ele alındığında, ortam destekliyorsa isteğe bağlı Excel listesi hazırlanabilir.
 
 ## Skill olarak kullanım
 
@@ -49,4 +49,4 @@ Fotoğraf/beyanla yapılan durum değerlendirmesi kesin laboratuvar teşhisi de�
 - templates/arilik-defteri.txt: asistanın dolduracağı ortak kayıt yapısı.
 - PromptKullanimi.txt: tek parça kullanım metni.
 
-Bu ilk sürüm gerçek arılıkta denenmeden saha başarısı doğrulanmış sayılmaz. Yayım lisansı henüz belirlenmemiştir; bu paketin hazırlanması herhangi bir GitHub deposunda lisans seçimi veya yayımlama işlemi yapmaz.
+Dosya yapısı ve yönerge tutarlılığı kontrol edilmiştir; gerçek arılıkta veya farklı platformlarda saha başarısı henüz doğrulanmamıştır. Yayım lisansı henüz belirlenmemiştir; bu paketin hazırlanması herhangi bir GitHub deposunda lisans seçimi veya yayımlama işlemi yapmaz.

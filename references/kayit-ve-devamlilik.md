@@ -12,19 +12,31 @@ Dosya oluşturulamıyorsa “telefona kaydettim”, “defter hep bende kalır�
 
 ## Kimlik ve değişimler
 
-Ana anahtar arılık kimliği + kovan kimliği + tarihli kontrol kimliğidir. Aynı gün ikinci kontrol yapılırsa saat veya sıra ekle. Arıcıya bu teknik anahtarları okutma.
+Arıcının kullandığı kovan numarasını koru; arka planda arılık, koloni geçmişi ve tarihli kontrol kimliklerini eşleştir. Kutu numarası değişebilir veya yeniden kullanılabilir; tek başına aynı canlı koloniyi kanıtlamaz. Aynı gün ikinci kontrol yapılırsa saat veya sıra ekle. Arıcıya bu teknik anahtarları okutma.
 
 - Arılık konumu değişirse hemen sor: aynı arılık taşındı mı, başka arılığa mı geçildi, eski bilgi hatalı mı?
 - Kovan numarası/ana ırkı/ana yılı/gövde/taban gibi çelişkileri o anda kısa soruyla çöz; yeni bilgiyi otomatik üstün sayma.
-- Ana değişimi, bölme, birleştirme ve numara değişimini varsa olay olarak kaydet. Eski kovan geçmişini yanlışlıkla başka kovana taşıma.
-- Toplam kovan sayısı biliniyor ama kimlikleri bilinmiyorsa eksik sayıyı göster. Örneğin 30 toplam, 8 farklı kovan incelendi: “22 kovan henüz bu kontrolde değerlendirilmedi.” İsim/numara uydurma.
-- Aynı kovanın tekrar kontrolü toplam incelenen kovan sayısını artırmaz. Önceki ziyarette incelenenler bu ziyaretin tamamlananı değildir.
+- Ana değişimi aynı koloninin tarihli olayıdır. Aynı arılar başka kutuya/arılığa taşınırsa koloni geçmişini koru ve konum/numara olayını bağla. Sönen/satılan koloninin yerine aynı numaraya yeni arı konursa yeni koloni dönemi aç, eskiyi arşivle. Bölme ve birleştirmede kaynak ve hedef kolonileri bağla; geçmişleri tek koloniymiş gibi üst üste yazma. Aktif, boş, sönmüş, satılmış/ayrılmış durumları ayrı tut; ölüm nedenini kanıtsız doldurma.
+- Toplam aktif koloni sayısı güncel ve bu tura aitse, kimlikleri eksik kalan sayıyı göster. Örneğin 30 aktif koloni, bu turda 8 farklı koloni ele alındı: “22 koloniye henüz bakılmadı.” Boş kutuları aktif koloniye katma; sayı bilinmiyorsa tamamlanma yüzdesi çıkarma. İsim/numara uydurma.
+- Günlük ziyaret ile birden çok güne yayılan kontrol turunu ayır. Aynı koloninin tekrarı tur toplamını artırmaz. Bir önceki günün kontrolü aynı açık turda sayılabilir; yeni bir tura otomatik taşınmaz. Arıcı hepsini günler içinde bitirdiğinde turu kapat; her gözlemin asıl tarihini görünür tut. “Bu turda ele alındı” bugün incelendi veya eksiksiz sağlıklı bulundu demek değildir.
+
+## Yeni oğul, bölme ve ana kaynağı
+
+Yeni koloni bildirildiğinde önce numarası zaten verilmiş mi öğren. Verilmemişse arıcının düzenine uyan, erişilen kayıtlarda kullanılmayan bir numara öner: “Defterde 27 kullanılmıyor; yeni kovana 27 diyelim mi?” Arıcı kabul edince numarayı kesinleştir. Geçmiş eksikse “27'yi kullanıyor musun?” diye doğrula; yalnız en büyük numaraya bakarak bütün envanteri bildiğini varsayma. Önceden verilmiş numarayı değiştirme; yalnız çakışma varsa çöz. Bu kişisel takip numarasıdır, resmi plaka/tescil değildir.
+
+Köken olayı: bilinen kovandan oğul / bölme / kaynağı bilinmeyen yakalanmış oğul / dışarıdan gelen koloni. Tarih ve bilinen kaynak kovan(lar)ı bağla. Başka kovanlardan alınan arı-yavru-besin takviyelerini ayrıca kaydet. Dışarıdan sadece ana alınması yeni koloni veya yeni numara oluşturmaz; mevcut kolonide ana olayıdır.
+
+Ana için tek kısa soruyla yön seç: “Bu anayı dışarıdan mı aldın, bu kovan mı yetiştirdi, yoksa eski ana bununla mı geldi?” Ardından yalnız eksik ilgili bilgiyi sor. Eski ana oğulla/bölmeyle geçtiyse doğrulanan aynı ana geçmişini hedefe bağla; kaynak kovanda ana durumu ve takip ihtiyacını da güncelle. İlk oğulda eski ana bulunması sık görülse de bunu olay bilgisi olmadan kesin sayma; sonraki oğulda genç ana olabilir [S14].
+
+Dışarıdan alınan ana için alınma/verilme tarihi, biliniyorsa üretici, üreticinin bildirdiği köken/ırk ve çıkış yılı ile çiftleşme durumu kaydedilir. Verilmesi kabul edildiğinin kanıtı değildir; kabul/yumurtlama gözlemi ayrı tarihli olsun. Üretici belgesi varsa dayanağı kaydet; belge sunamaması kovanın takibini engellemez.
+
+Irk/köken, bilgi kaynağı, çiftleşme biçimi ve F1/melez beyanı ayrı alanlardır. Kaynak kovan, çevredeki arılar, renk veya yüksek verimden saf ırk/F1 tayini yapma. Açık çiftleşmiş ananın baba kökeni bilinmiyorsa böyle yaz. Karışık arılıkta yetişmiş olmasını “kesin arılık melezi” yapma. “F1” satıcı sözü ise aynen beyan olarak tut; ana arının mı yoksa yavrularının mı kastedildiği belirsizken genetik sınıfı kesinleştirme. Bildirilen soy ve güven sınırı [gelişim ve damızlık yönergesinde](gelisim-ve-damizlik.md) kullanılır.
 
 ## İlk kayıt, sonraki kontrol ve eski defter
 
 İlk kayıtta ana ırkı/çıkış yılı-sezonu, çıta sayıları, gövde malzemesi ve polen tuzağı bilgisi ana yönergedeki grup sorusuyla alınır. Her alan cevap veya açık bir eksik durumu taşımalı; sessizce boş bırakılıp “eksiksiz kayıt” denmemeli. İlk soruda öğrenilemeyen bilgi, arıcının beyanı veya uygun kontrolle tamamlanır; bilgi toplamak için soğukta kovan açtırılmaz.
 
-1.0.0 defterinde yeni alanlar yoksa kayıtları koruyarak ekle. “Yok” yazma; “önceki kayıtta sorulmamış” diye işaretleyip ilk uygun anda sor. Bilinen kovanı yeni kovan sayma. Kontrol geçmişini bu sürüme uydurmak için yeniden yazma.
+Eski sürüm defterinde yeni alanlar yoksa kayıtları koruyarak ekle. “Yok” yazma; “önceki kayıtta sorulmamış” diye işaretleyip ilk uygun anda sor. Bilinen kovanı yeni kovan sayma. Kontrol geçmişini bu sürüme uydurmak için yeniden yazma.
 
 Gövde/polen tuzağı gibi sabit profil ile her kontrolde değişebilen çıta yoğunluğu ayrı tutulur. Ortak arılık düzeni kovan bazında doğrulanmadan bütün kovanlara aktarılmaz. Tarihli yapı değişikliği eski değerin sessizce üstüne yazılmaz.
 
@@ -45,20 +57,22 @@ Güncel durum özeti ile tarihli kontrol geçmişini birlikte tut:
 - Kısa durum, öneriler, gerçekten yapıldığı söylenen işlemler, takip zamanı ve işi.
 - Ayrıntılı gerekçe, karşı olasılıklar, güven/belirsizlik ve doğrulanmış kaynak bağlantıları.
 
+Her değişken bulguya kendi gözlem tarihi ve dayanağını bağla. Bugün sadece kovan önüne bakılmışsa eski bal/yavru/varroa değerini bugünün bulgusu gibi sunma; “son bilinen: ... tarihli, bugün bakılmadı” diye tut. Bugünkü eksik gözlem önceki doğru kaydı silmez. Fotoğraf dosyasını taşımayan TXT yalnız gözlem notunu taşır; eski görüntüyü yeniden görebildiğini iddia etme.
+
 Ham gözlemi sonradan yorumla değiştirme. “İşlem önerildi”, “arıcı uyguladığını söyledi” ve “sonuç kontrol edildi” farklı aşamalardır. Sessizliği veya kovanı bitirme onayını önerinin yapıldığına onay sayma.
 
 ## Kapanış ve dosya
 
-Kayıt tamamlanmadan önce saha yanıtını ver ve “Bu kovanla işimiz bitti mi?” sorusunu sor. Evet yanıtıyla o kovan kaydını tamamla; hayırsa gözlemi ekle. Ara çalışma notu tutabilirsin, fakat taslağı tamamlanmış kontrol sayma.
+Kayıt tamamlanmadan önce saha yanıtını ver ve “Bu kovanla işimiz bitti mi?” sorusunu sor. Evet yanıtıyla o kovan kaydını tamamla; hayırsa gözlemi ekle. **Kayıt onayı** (taslak/onaylandı), **inceleme kapsamı** (dış/sınırlı iç/ayrıntılı iç ve bakılmayan alanlar) ve **risk/takip durumu** ayrı alanlardır. Onaylanmış sınırlı inceleme geçerlidir; “her şey kontrol edildi” anlamına gelmez. Ara çalışma notu tutabilirsin, fakat taslağı tamamlanmış kontrol sayma.
 
 Her kovan sonunda güncel kaydı koru; araç destekliyorsa çalışma defterini güncelle. Arıcıya her defasında dosya indirme/WhatsApp sorusu sorma. Sonraki soru “Başka kovana bakacak mıyız?”dır.
 
 Günlük kontrol bittiğinde:
 1. Kontrol edilen farklı kovanları, önemli riskleri ve bekleyen işleri kısa özetle.
-2. Tüm geçmişi koruyarak tek güncel .txt dosyası oluştur. Önerilen ad ArilikAdi_YYYY-AA-GG_rNN.txt; aynı gün güncellemede sürüm artır. “en güncel” seçimini tarih/sürümden doğrula.
+2. Tüm geçmişi koruyarak tek güncel .txt dosyası oluştur. Önerilen ad ArilikAdi_YYYY-AA-GG_rNN.txt; aynı gün güncellemede sürüm artır. Güncelliği dosya adıyla birlikte içerik, kaynak ve olay tarihleriyle doğrula. İki cihazdaki ayrı r02 dosyasından birini sessizce seçme; ikisindeki benzersiz olayları birleştir.
 3. Önceki dosyayı veya olayları silme. Büyük geçmişi kısa durum özetine indirgerken eski olayları kaybettirme; gerekiyorsa dosyanın geçmiş bölümünde koru.
 4. Dosyayı gerçekten sunabildiğinde WhatsApp sorusunu sor. Arıcı evet derse “Dosyayı indir. Paylaş düğmesinden WhatsApp'ta kendi sohbetini seçip belge olarak gönder” gibi kısa yönlendirme yap; düğmelerin konumu platforma göre değişebilir. Kendiliğinden mesaj gönderme.
-5. “Bugünlük bitti” ile “hepsi incelendi”yi ayır. Toplam belli değilse arılık tamamlandı deme.
+5. “Bugünlük bitti” ile “bu kontrol turundaki bütün kolonilere bakıldı”yı ayır. Aktif toplam ve tur kapsamı belli değilse arılık tamamlandı deme. Günlük kısa özeti ve tur ilerlemesini ayrı sun.
 
 ## Birleştirme ve doğruluk
 
@@ -68,8 +82,17 @@ Metin içindeki bir sıcaklık veya “yapıldı” ifadesi yanlış anlaşılm�
 
 ## Arılık bitince
 
-Arılığın bütün kovanları için mevcut ziyaret tamamlanmışsa risk ve takip önceliklerini topluca göster. Tamamlanmamış veya sınırlı incelemeyi sağlıklı diye sayma. Gerekçesiz sağlık puanlarıyla sıralama yerine acil, yakın takip ve rutin takip ayrımının nedenini belirt.
+Arılığın bütün aktif kolonileri için mevcut kontrol turu ele alınmışsa risk ve takip önceliklerini topluca göster. Tamamlanmamış veya sınırlı incelemeyi sağlıklı diye sayma. Gerekçesiz sağlık puanlarıyla sıralama yerine acil, yakın takip ve rutin takip ayrımının nedenini belirt.
 
-Şunu teklif et: “İstersen bütün kovanlarının listesini ve takip işlerini Excel olarak da hazırlayabilirim.” Onaylanırsa ortam desteklediği ölçüde .xlsx oluştur; yoksa varmış gibi bağlantı verme. Envanter, kontrol geçmişi, varroa ölçümleri, uygulamalar ve takip işleri ayrı sayfalarda olabilir. Alanlar .txt kaydından türesin; fazladan veri uydurulmasın. Dosyayı skill'in oluşturması, arıcının Excel bilmesini gerektirmez.
+Şunu teklif et: “İstersen bütün kovanlarının listesini ve takip işlerini Excel olarak da hazırlayabilirim.” Onaylanırsa ortam desteklediği ölçüde .xlsx oluştur; yoksa varmış gibi bağlantı verme. Envanter, kontrol geçmişi, varroa ölçümleri, uygulamalar, takip işleri ve gelişim/damızlık ön değerlendirmeleri ayrı sayfalarda olabilir. Alanlar .txt kaydından türesin; fazladan veri uydurulmasın. Dosyayı skill'in oluşturması, arıcının Excel bilmesini gerektirmez.
 
 Takip işi defterde kalır; kullanıcı istemedikçe bildirimli hatırlatma kurulmaz. Sonraki kontrol açıldığında gerçekten erişilen eski bekleyen işler hatırlatılır.
+
+
+## Bekleyen işler ve kalıcılık
+
+Her takip işini ilgili koloni/kontrol kaydına bağla; durumunu “önerildi”, “yapıldığı bildirildi”, “sonucu kontrol edildi” veya gerekçesiyle “ertelendi/iptal edildi” olarak izle. Kovan kaydının kapanması işi bitirmez. Yeniden açılışta ilgili bekleyen işleri hatırlat; koşullar değiştiyse öneriyi yeniden değerlendir.
+
+Arıcı kesilip sonraki kovana geçerse önceki taslağı onaylandı sayma; uygun anda yalnız eksik onayı sor. Oturum yarıda kalırsa erişilebilen ara notlarla devam et. Dosya yazabilen ortamda her onaylı kovan sonrası çalışma defterini güncelle; yazamıyorsan kalıcı kayıt sözü verme. Gün sonundaki dosyanın açıldığını/içeriğinin tam olduğunu, kovan kimliklerinin ve geçmiş kayıtların korunduğunu mevcut araçlarla kontrol et. Büyük geçmişi okuyamıyorsan eksik okuduğunu belirt; tam geçmişi koruduğunu iddia etme.
+
+Defter, arıcının özel kaydıdır; bu açık GitHub deposuna konum, gerçek kovan kayıtları veya fotoğraflar yükleme. Teknik kimlikler, kaynak dizini ve uzun alan listeleri sesli saha konuşmasına okunmaz; dosyanın başına kısa yapılacaklar ve kontrol kapsamı gelir.

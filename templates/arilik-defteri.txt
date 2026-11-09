@@ -1,16 +1,19 @@
 KOVAN SAĞLIĞI VE ARILIK TAKİBİ — ARILIK DEFTERİ
-Skill sürümü: 1.1.0
+Skill sürümü: 1.3.0
 Defter sürümü:
 Son güncelleme / saat dilimi:
 Kayıt kapsamı: Bu dosyada gerçekten bulunan kontroller
-Geçmiş durumu: Tam / kısmi / önceki deftere erişilemedi
+Geçmiş durumu: Erişilen kaynaklar birleştirildi / kısmi / önceki deftere erişilemedi
+(Not: bütün hayat geçmişinin bilindiği iddiası değildir.)
 
 ARILIK
 Arılık kimliği ve adı:
 Konum (arıcı beyanı):
 Konum / taşınma geçmişi:
 Yaklaşık rakım ve dayanağı:
-Toplam kovan sayısı (beyan):
+Toplam aktif koloni sayısı (beyan ve tarihi):
+Boş kutu / sönmüş / satılmış-ayrılmış kayıtları (ayrı):
+Kontrol turu kimliği, başlangıcı, hedef kapsamı ve açık/kapalı durumu:
 Bilinen kovan numaraları:
 Kovan tipi / ortak düzen:
 Arıcının işaretleri ve anlamları:
@@ -21,6 +24,8 @@ Bugün incelenen farklı kovanlar:
 Sınırlı / eksik inceleme olanlar:
 Bugün incelenmeyen bilinen kovanlar:
 Kimlikleri bilinmeyen kalan kovan sayısı:
+Bu turda ele alınan farklı koloniler ve ayrı ayrı kontrol tarihleri:
+Bu turda henüz bakılmayanlar / kapsamı sınırlı kalanlar:
 Öncelikli işler:
 
 HAVA VE YEREL KOŞULLAR
@@ -34,28 +39,42 @@ Nektar / polen gelişi gözlemi ve tarihi:
 
 KOVANLARIN GÜNCEL ÖZETİ
 [Her bilinen kovan için ayrı bölüm; numara uydurma]
-Kovan kimliği:
+Kovan numarası / kalıcı adı:
+Koloni geçmiş kimliği ve aynı numaranın kullanım dönemi:
+Koloni durumu (aktif / boş / sönmüş / satılmış-ayrılmış / bilinmiyor):
+Önceki-sonraki kutu/arılık ve bölme-birleştirme bağlantıları:
 İlk kayıt tarihi:
 İlk kayıt eksikleri / tamamlanma durumu:
 Gövde malzemesi (ahşap / kompozit / strafor / diğer / bilinmiyor):
 Polen tuzağı (var / yok / bilinmiyor):
-Polen tuzağı kullanım durumu (açık / kapalı / çıkarılmış / bilinmiyor / uygulanmaz):
+Polen tuzağı işlevi (polen topluyor / toplamıyor / çıkarılmış / bilinmiyor / uygulanmaz):
 Taban yapısı (kapalı / telli / diğer / bilinmiyor):
 Alt çekmece (varlığı / konumu / bilinmiyor):
 Son kontrol tarihi / kapsamı:
-Ana ırkı / cinsi (arıcı beyanı):
+Değişken her bulgunun kendi gözlem tarihi ve dayanağı; bugün bakılmayanlar:
+Ana ırkı / kökeni (arıcı veya üretici beyanı):
+Ana geçmiş kimliği; kaynak kovan/üretici ve bilgi dayanağı:
+Koloni oluşumu (oğul / bölme / satın alınan / diğer / bilinmiyor), tarih ve kaynaklar:
+Ana kaynağı (eski ana / bu kovanda yetişen / dışarıdan alınan / bilinmiyor):
+Ana alınma-verilme tarihi; kabul/yumurtlama gözlemi ve tarihi:
+Ana çiftleşme durumu/biçimi ve dayanağı:
+F1/melez/saflık beyanı; kimin beyanı, belge veya bilinmeyenler:
 Ana çıkış yılı / kaçıncı sezonu:
 Ana, yumurta ve genç yavru hakkında dayanaklar:
 İki yüzü yoğun arılı çıta sayısı:
 Kısmen arılı çıtalar:
-Takılı toplam çıta / kat sayısı:
+Kovan/çıta tipi veya ölçüsü (biliniyorsa):
+Takılı toplam çıta / kat sayısı ve sayım kapsamı:
 Açık yavru görülen çıtalar / yaklaşık alan:
 Kapalı yavru görülen çıtalar / yaklaşık alan:
 Toplam yavrulu çıta (ayrıca biliniyorsa):
-Kemer balı / polen ve erişilebilir stok:
+Kemer balı / polen ve erişilebilir üst-yan stok / yemlik:
+Besleme gerekiyorsa hasatlık bal-ballık durumu:
+Suya erişim / sıcakla ilgili gözlem (ilgiliyse):
 Kovan önü:
 Yavru / arı sağlığı gözlemleri:
 Varroa son ölçümü ve sınırları:
+Son uygulama: arıcı beyanıyla ürün, tarih, miktar-birim, bitiş ve sonuç kontrolü:
 Çıta küfü / örtü bezi ıslaklığı:
 Alan / taban / yalıtım (ilgiliyse):
 Bugünkü kısa durum ve gerekçesi:
@@ -68,7 +87,8 @@ Takip tarihi veya koşulu ve yapılacak iş:
 TARİHLİ KONTROL VE OLAY GEÇMİŞİ
 [Önceki kayıtları koru. Her kontrol / değişim için aşağıdaki alanları kullan]
 Kontrol / olay kimliği:
-Arılık ve kovan:
+Arılık, kovan ve koloni geçmiş kimliği:
+Bağlı kontrol turu:
 Tarih / saat:
 Önceki kayıtla ilişki:
 Ana / gövde / taban / numara değişikliği (varsa):
@@ -83,9 +103,33 @@ Dayanak / belirsizlik:
 Yapıldığı bildirilen işler:
 Takip işi / zamanı:
 “Bu kovanla işimiz bitti mi?” cevabı:
-Kayıt durumu: tamamlandı / ara not / eksik inceleme
+Kayıt onayı: taslak / onaylandı
+İnceleme kapsamı: dış gözlem / sınırlı iç / ayrıntılı iç
+Bakılmayan alanlar:
+Risk ve takip durumu (gerekçesiyle; sağlık puanı değildir):
 Kaynak kayıtları:
 Düzeltme varsa eski kayıtla bağı:
+
+GELİŞİM VE DAMIZLIK ÖN DEĞERLENDİRMESİ
+[Sadece mevcut ölçümler; bu bölüm arıcıya doldurtulmaz]
+Koloni ve ana geçmiş kimliği:
+Karşılaştırılan kontrol kimlikleri, tarihleri ve geçen gün:
+Ölçüt / birim / önceki ve son değer / fark / yüzde (hesaplanabiliyorsa):
+Gözlem yaklaşık mı; yöntem, çıta tipi ve inceleme kapsamı:
+Karşılaştırılabilirlik: uygun / sınırlı / uygun değil; gerekçesi:
+Arı-yavru takviyesi, bölme-oğul, ana değişimi, besleme/uygulama/taşıma olayları:
+Gelişim yorumu ve kıyaslanan kovanlar/dönem:
+Sağlık, sakinlik, oğul eğilimi, kışlama ve varsa ölçülmüş verim dayanakları:
+Üretim hedefi: işletmede ana yetiştirme / saf ırk-hat koruma / başka / bilinmiyor:
+Etiket: veri yetersiz / gelişimi önde-izlenecek / damızlık ön adayı / adaylık beklemede:
+Etiket tarihi, gerekçesi, eksikler ve yeniden değerlendirme:
+Saf ırk-hat amacına uygunluk ve soy dayanağı (ayrı):
+
+BEKLEYEN İŞLER
+İş kimliği / ilgili koloni ve kontrol:
+Öneri ve tarih/koşul:
+Durumu: önerildi / yapıldığı bildirildi / sonucu kontrol edildi / ertelendi-iptal
+Sonuç veya erteleme gerekçesi:
 
 BİRLEŞTİRME VE EKSİKLER
 Okunan dosya / erişilebilen sohbet ve tarihi:

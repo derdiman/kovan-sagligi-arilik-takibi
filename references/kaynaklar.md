@@ -1,8 +1,8 @@
 # Kaynak dayanağı ve güncelleme
 
-Bu liste bir başlangıç kaynağı dizinidir; bütün koşullara tek reçete değildir. Hazırlama kontrolü: 9 Kasım 2026. Kullanımda özellikle yerel başvuru, ürün, eşik ve değişebilen rehber sürümlerini güncel resmi kaynaktan doğrula.
+Bu liste bir başlangıç kaynağı dizinidir; bütün koşullara tek reçete değildir. Kaynak dizini ilk hazırlama ve 1.3.0 gözden geçirme tarihi: 9 Kasım 2026. Bu tarih bütün kaynakların yeni yayımlandığı veya tam metninin yeniden okunduğu anlamına gelmez; aşağıdaki erişim notlarını esas al. Kullanımda özellikle yerel başvuru, ürün, eşik ve değişebilen rehber sürümlerini güncel resmi kaynaktan doğrula.
 
-Saha yanıtını kısa tut; ayrıntılı kaynakları deftere ekle. Sonucu etkileyen bir kararda birden fazla bağımsız kurumsal rehberi/araştırmayı birlikte kullan. Tek çalışmayı veya aynı metnin kopyalarını fikir birliği sayma. Bir makaleyi dayanak gösterirken tasarımını, iklimini ve sınırını belirt.
+Saha yanıtını kısa tut; ayrıntılı kaynakları deftere ekle. Aşağıdaki kaynak adları tek başına yapılmış araştırma değildir. İlgili metni gerçekten okumadan bütün rehberleri karşılaştırdığını söyleme; canlı erişim yoksa temel gözlem ve güvenli takip önerisiyle sınırı açıkla. Sonucu etkileyen bir kararda birden fazla bağımsız kurumsal rehberi/araştırmayı birlikte kullan. Tek çalışmayı veya aynı metnin kopyalarını fikir birliği sayma. Bir makaleyi dayanak gösterirken tasarımını, iklimini ve sınırını belirt.
 
 ## Seçim ilkeleri
 
@@ -58,7 +58,7 @@ Kullanım: kullanılabilir alan ve oğul hazırlığı; boş ana yüksüğü ile
 - [Penn State Extension — Honey Bee Management Throughout the Seasons](https://extension.psu.edu/honey-bee-management-throughout-the-seasons)
 - [NSW DPIRD — Honey bee nutrition and supplementary feeding](https://www.dpird.nsw.gov.au/animals-and-livestock/bees/management/nutrition2/supplementing)
 
-Kullanım: enerji/protein ayrımı ve beslemenin mevsim/amaçla ilişkisi. Penn State doğrudan erişiminde 403; arama bölümleri görülebildi. İlgili yarımküre ve iklimin aylarını yerel karar gibi kopyalama.
+Kullanım: enerji/protein ayrımı ve beslemenin mevsim/amaçla ilişkisi. Penn State doğrudan erişiminde 403; arama bölümleri görülebildi. İlgili yarımküre ve iklimin aylarını yerel karar gibi kopyalama. NSW sayfası ve bağlı PDF bu gözden geçirmede açıldı; yayın tarihi 1 Temmuz 2000. Beslenme kavramlarına tarihsel dayanak sağlar; güncel uygulamanın tek dayanağı olamaz. Besleme kararı için S13 ile karşılaştır.
 
 ## S8 — Birden fazla araştırma: kışlatma ve taban
 
@@ -76,6 +76,42 @@ Kullanım: yalıtım ve taban kararının bağlama bağlı olduğunu anlamak; so
 
 Kullanım: uygun uzman/laboratuvar yolunun bulunması ve yerel kışlatma bağlamı. Enstitü ve kışlatma sayfaları doğrudan açıldı; diğer sayfa arama bilgisiyle doğrulandı. Laboratuvarın hizmet bölgesini ve numune kabulünü kullanımda doğrula. Kışlatma metnindeki genel birleştirme önerisi, hastalık şüphesi olan kovanları birleştirme izni değildir. Kağıt örtü bilgisi bütün koli kartonlarının uygunluğunu kanıtlamaz.
 
+## S10 — Ani ölüm ve numune yönlendirmesi
+
+- [Agriculture Victoria — Sampling bees for residue testing](https://agriculture.vic.gov.au/farm-management/chemicals/managing-chemical-residues/chemical-residue-resources/sampling-bees-for-residue-testing). Tam sayfa erişildi; güncelleme 5 Ağustos 2026. Ani ölümde zaman, etkilenen kovan ve örneklerin bozulmadan değerlendirilmesi önemlidir. Avustralya başvuru numarasını Türkiye'ye taşıma; zehirlenme örneği için anlatılan saklamayı bütün arı hastalıklarına uygulama.
+- [Etlik Veteriner Kontrol Merkez Araştırma Enstitüsü — Numune gönderme kılavuzu](https://vetkontrol.tarimorman.gov.tr/merkez/Belgeler/NumuneKabulKriterleri/Numune%20g%C3%B6nderme%20k%C4%B1lavuzu%20formu%2016.09.2025.pdf). PDF erişildi, arı hastalıkları bölümü görüldü; revizyon 16 Eylül 2025. Numune tipi teste bağlıdır. Hangi kurumun hangi testi kabul ettiğini ve paketleme/taşıma koşulunu olay sırasında doğrula; bu rehber bütün zehirlenme incelemelerinin kabul edildiğini kanıtlamaz.
+
+## S11 — Sıcak hava ve su
+
+- [Agriculture Victoria — Caring for apiaries affected by smoke and heat](https://agriculture.vic.gov.au/livestock-and-animals/honey-bees/health-and-welfare/caring-for-apiaries-affected-by-smoke-and-heat). Tam sayfa erişildi; güncelleme 23 Haziran 2020. Su ve ısı düzenlemesi için dayanak. Yangın sonrası önerileri rutin bütün kovanlara uygulama; otomatik birleştirme/ana değiştirme çıkarma.
+- [Oregon State University uzman yanıtı — Do honey bees drink water?](https://ask.extension.org/kb/faq.php?id=465969). Tam sayfa erişildi; yanıt 29 Haziran 2018. Suyun soğutmadaki rolünü destekler; tek başına ayrıntılı koloni yönetim rehberi değildir. Temiz su ve ekipman koşulları için S12 ile birlikte kullan.
+
+## S12 — Bulaşmayı azaltma ve ekipman
+
+- [Canadian Food Inspection Agency — Honey Bee Producer Guide](https://inspection.canada.ca/en/animal-health/terrestrial-animals/biosecurity/standards-and-principles/honey-bee-producer-guide). Tam sayfa erişildi; su/yem, kişisel temizlik ve alet bölümleri incelendi. Bulaşmış alet/eldivenin ayrılması, temiz su ve tutunma yüzeyleri için dayanak. Yayın/güncelleme tarihi bu okumada doğrulanmadı. Kanada ruhsat ve atık/kimyasal uygulamaları Türkiye için talimat değildir.
+- [National Bee Unit — Apiary hygiene and quarantine](https://www.nationalbeeunit.com/assets/PDFs/3_Resources_for_beekeepers/Fact_Sheets/Fact_03_Apiary_Hygiene_and_Quarantine.pdf). Bu gözden geçirmede arama indeksi görüldü; tam PDF okunmuş sayılmaz. Ekipman hijyeninin önemini destekler; kimyasal derişim veya dezenfeksiyon tarifi için kullanılmadı.
+
+## S13 — Besleme ve hasatlık bal
+
+- [Michigan State University uzman yanıtı — Feeding Bees](https://ask.extension.org/kb/faq.php?id=894831). Tam sayfa erişildi; yanıt 21 Mart 2025. Hasatlık bal toplanan katlarla şurup beslemesinin ayrılması için açık dayanak. Oran/takvim reçetesini bağlamdan koparma.
+- [Agriculture Victoria — Feeding honey bees to prevent starvation](https://agriculture.vic.gov.au/livestock-and-animals/honey-bees/health-and-welfare/feeding-honey-bees-to-prevent-starvation). Sayfa erişildi; besleme, açık yemleme ve bilinmeyen bal kaynağı bölümleri okundu. Yayın/güncelleme tarihi bu okumada doğrulanmadı. Açık yemlemenin yağmacılık/bulaşma riski ve temiz içerik için kullanılır. Yerel iklimden bağımsız şurup/kuru şeker reçetesi çıkarma; S1, S7 ve koloni koşullarıyla karşılaştır.
+
 ## Defterde kaynak kaydı
 
 İlgili karara bağlı olarak kurum/başlık, URL, görülebilen yayın/güncelleme tarihi, erişim tarihi ve erişim düzeyini yaz. “S1” gibi iç kodlar konuşmada arıcıya okutulmaz; defterde açık bağlantılarla eşleşir. Canlı doğrulama yapılamadıysa “hazırlama kaynaklarından, güncel doğrulama yapılamadı” diye belirt.
+
+
+## S14 — Oğul ve ana geçmişi
+
+- [UF/IFAS — Swarm Control for Managed Beehives](https://ask.ifas.ufl.edu/publication/IN970).
+- [Purdue University — The Complex Life of the Honey Bee](https://ag.purdue.edu/department/extension/ppp/resources/ppp-publications/mobile/ppp-116-pol-91.html).
+
+9 Kasım 2026 gözden geçirmesinde arama indeksindeki ilgili kısımlar görüldü; tam metin okuması olarak sunulmaz. İlk oğulda eski, sonraki oğullarda genç ana olabilmesi kaynak/ana ilişkisi kaydını destekler; belirli oğuldaki anayı doğrulamaz. Kurulumda verilen numara ve köken kaydı teknik takip tercihidir, biyolojik teşhis değildir.
+
+## S15 — Genetik, açık çiftleşme ve F1 sınırları
+
+[Penn State Extension — Honey Bee Genetics Basics](https://extension.psu.edu/honey-bee-genetics-basics), 20 Aralık 2024 güncellemesi. 9 Kasım 2026 arama indeksinde ayrıntılı içerik okundu; doğrudan sayfa 403 döndü. Kız anaların aynı performansı otomatik taşımaması ve açık çiftleşmede baba katkısının değişmesi için dayanak. F1 etiketi tek başına damızlık yasaklama veya saflık belgesi değildir; üretim hedefi ve soy kaydıyla yorumlanır. Bu son ifade skill'in hedefe göre ihtiyatlı değerlendirmesidir, Türkiye için resmî sınıflandırma kuralı değildir.
+
+## S16 — Damızlık değeri ile saha performansı
+
+[Bee institute Hohen Neuendorf — Manual of BeeBreed](https://www2.hu-berlin.de/beebreed/ZWS/do/en/manual.pdf), 2 Ağustos 2023. 9 Kasım 2026 PDF erişildi; giriş, performans testleri ve kuvvet özellikleri bölümleri incelendi. Genetik değerlendirmede çevre/bakım etkileri, akraba kayıtları ve birden çok özellik dikkate alınır. Skill'in iki kontrol arasındaki çıta değişimi böyle bir damızlık değeri değildir. Kılavuzdaki yabancı takvim, puan eşikleri veya test amaçlı bakım kısıtlamaları bu saha akışına aktarılmadı. Birden fazla gözlem ve amaç ayrımı için S15 ile birlikte kullanılır. Paket etiketleri uygulama tasarımıdır; doğrulanmış resmî ıslah skoru değildir.
